@@ -1,3 +1,3 @@
-module ipgw
+module github.com/unbyte/ipgw
 
-go 1.13
+go 1.14
